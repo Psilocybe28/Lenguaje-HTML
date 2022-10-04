@@ -1,0 +1,25 @@
+.Elemento-flex{
+    width: 150px;
+    height: 150px;
+    border: 3px solid rgb(22, 194, 206);
+    background-color: rgb(151, 231, 225);
+}
+.contenedor{
+    display:flex;
+    justify-content: baseline;
+    width: 500px;
+    height: 500px;
+    align-items: center;
+    border: 4px solid salmon;
+    flex-wrap: wrap;
+    color: rgb(255, 255, 255);
+    text-align: end;
+    flex-direction: column;
+}
+.elemento-2{
+        background-color: aquamarine;
+    }
+.elemento-5{
+    
+    background-color: rgb(143, 73, 131);
+    font-size: x-large;
