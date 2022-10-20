@@ -1,3 +1,28 @@
+.container{
+    color: aquamarine;
+    background-color: black;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.nav{
+    background-color: rgb(167, 240, 215);
+    color: black;
+    padding: 3%;
+    margin: 10px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.blue{
+    background-color: rgb(22, 204, 236);
+    color: black;
+}
+.pink{
+    background-color: rgb(164, 84, 204);
+    color: black;
+}
 .Elemento-flex{
     width: 150px;
     height: 150px;
@@ -15,3 +40,4 @@
     color: rgb(255, 255, 255);
     text-align: end;
     flex-direction: column;
+}
